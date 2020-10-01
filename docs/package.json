@@ -1,5 +1,5 @@
 {
-  "name": "big data",
+  "name": "bigdata",
   "version": "0.0.1",
   "description": "onderzoeksopdracht",
   "main": "index.js",
@@ -7,13 +7,13 @@
     "name": "Maarten Oste",
     "email": "maaroste@student.arteveldehs.be"
   },
-  "repository": "https://github.com/gdmgent-2021-wot/research-MaartenOste.git/big data",
+  "repository": "https://github.com/gdmgent-2021-wot/research-MaartenOste.git",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3"
+    "vuepress": "^1.6.0"
   }
 }
