@@ -1,4 +1,4 @@
-# Data visualization?
+# Data visualization
 
 We kunnen zeggen dat Data Visualization een manier is om de gegevens weer te geven. Hiervoor kan gebruik gemaakt worden van:
 - beeldcombinaties

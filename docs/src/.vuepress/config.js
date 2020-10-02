@@ -51,6 +51,7 @@ module.exports = {
             '',
             'datavisualization',
             'bigdata',
+            'doe-het-zelf',
             'bronnen'
           ]
         }

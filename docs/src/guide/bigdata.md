@@ -1,4 +1,4 @@
-# Big data?
+# Big data
 
 ## Definitie
 Over de definitie van big data bestaat er nogal wat onenigheid, maar in het algemeen gebruikt men 5 v’s om big data te
