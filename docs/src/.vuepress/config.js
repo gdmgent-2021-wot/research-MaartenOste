@@ -37,10 +37,6 @@ module.exports = {
         text: 'Big data visualization ',
         link: '/guide/',
       },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
     ],
     sidebar: {
       '/guide/': [
@@ -52,6 +48,8 @@ module.exports = {
             'datavisualization',
             'bigdata',
             'doe-het-zelf',
+            'ervaring',
+            'finale-uitwerking',
             'bronnen'
           ]
         }
