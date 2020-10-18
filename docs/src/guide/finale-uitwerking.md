@@ -1,8 +1,8 @@
-# Finale resultaat
+# Eindresultaat
 
 ## Algemeen
 
-Gehost op: [https://bigdata-f5e13.web.app/](https://bigdata-f5e13.web.app/)
+Bekijk de tutorial hier: [https://youtu.be/DUM4QTjsdUw](https://youtu.be/DUM4QTjsdUw)
 
 Mijn finale uitwerking voor big data visualization is een een kaart geworden. Op deze kaart kan de gebruiker op elk land van de wereld klikken. Door te klikken op een land zal er een nieuw menu opengaan. In dit menu is zijn vier statistieken van dat land te zien:
 
